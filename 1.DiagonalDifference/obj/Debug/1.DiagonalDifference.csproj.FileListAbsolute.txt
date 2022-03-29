@@ -1,0 +1,7 @@
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\bin\Debug\1.DiagonalDifference.exe.config
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\bin\Debug\1.DiagonalDifference.exe
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\bin\Debug\1.DiagonalDifference.pdb
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.exe
+C:\Users\Longbig\source\repos\1.DiagonalDifference\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.pdb
